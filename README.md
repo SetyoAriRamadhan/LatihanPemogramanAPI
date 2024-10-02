@@ -12,7 +12,7 @@
 |  |  |  |
 |--|--|--|
 |No| **Tugas | Detail |
-| 1 | Pertemuan 1 p5.js | Membuat shape di p5.js |
+| 1 | Pemograman API | Latihan Pemograman API |
 
 # SCREENSHOT PROGRAM
 ![Screenshot](https://github.com/SetyoAriRamadhan/LatihanPemogramanAPI)
